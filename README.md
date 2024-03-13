@@ -1,4 +1,11 @@
-# Kinesis Advantage 360 Pro ZMK Config
+# Kinesis Advantage 360 Pro ZMK Config - Jason Holden's customizations
+
+## Review of the ADV360-PRO-ZMK
+
+This keyboard is awesome, full stop.  But it can be even better.
+As a full-time programmer, I find the default layout for locations of
+control/alt/command keys hard to reach without awkward wrist movements.
+You can find my customizations, ready to flash, in [releases](https://github.com/jasonkholden/Adv360-Pro-ZMK/tree/feature/jholden-mac-v3/releases)
 
 ## Modifying the keymap
 
